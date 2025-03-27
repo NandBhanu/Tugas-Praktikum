@@ -1,0 +1,5 @@
+{
+    "rewrites": [
+      { "source": "/isiArtikel", "destination": "/isiArtikel.html" }
+    ]
+  }
