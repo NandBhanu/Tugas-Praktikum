@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     cards.forEach(card => {
         card.addEventListener("click", function () {
-            window.location.href = "/isiArtikel.html";
+            document.location.href = "/isiArtikel.html";
         });
     });
 });
