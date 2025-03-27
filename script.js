@@ -30,12 +30,12 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 
-document.addEventListener("DOMContentLoaded", function () {
-    let cards = document.querySelectorAll(".card");
+// document.addEventListener("DOMContentLoaded", function () {
+//     let cards = document.querySelectorAll(".card");
 
-    cards.forEach(card => {
-        card.addEventListener("click", function () {
-            window.location.href = "isiArtikel.html";
-        });
-    });
-});
+//     cards.forEach(card => {
+//         card.addEventListener("click", function () {
+//             window.location.href = "isiArtikel.html";
+//         });
+//     });
+// });
