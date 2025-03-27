@@ -1,9 +1,5 @@
 {
-    "routes": [
-      {
-        "src": "/isiArtikel.html",
-        "dest": "/isiArtikel.html"
-      }
+   "rewrites":  [
+       {"source": "/(.*)", "destination": "/"}
     ]
-  }
-  
+}
